@@ -1,3 +1,8 @@
+<div class="form-group">
+   <label for="comment">Comment:</label>
+   <textarea class="form-control" rows="5" id="comment"></textarea>
+ </div> 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StefanoPrandini/stefanoprandini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
